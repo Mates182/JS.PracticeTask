@@ -13,13 +13,13 @@ This is a simple React.js application that tracks and counts the number of click
 To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/Mates182/JS.PracticeTest.git
+git clone https://github.com/Mates182/JS.PracticeTask.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd JS.PracticeTest
+cd JS.PracticeTask
 ```
 
 ### Running the Application Locally (Without Docker)
@@ -53,4 +53,4 @@ To run the application with Docker, visit the Docker Hub Repository of this proj
 
 
 ## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Mates182/JS.PracticeTest/issues) if you'd like to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Mates182/JS.PracticeTask/issues) if you'd like to contribute.
