@@ -17,4 +17,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: mates182/py_practicetask:latest
+          tags: mates182/js_practicetask:latest
