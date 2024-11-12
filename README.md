@@ -1,10 +1,9 @@
 # React.js Practice Task
 
 ## Description
-This is a simple React.js application that tracks and counts the number of clicks made by the user. It demonstrates the basics of building and deploying a React.js application within Docker. The project is deployed and accessible online, and it can also be run locally using Docker.
+This is a simple React.js application that tracks and counts the number of clicks made by the user. It demonstrates the basics of building and deploying a React.js application within Docker.
 
 ## Project Links
-- **Deployed on Railway**: [React.js Practice Task on Railway](https://jspracticetest-production.up.railway.app/)
 - **Docker Hub Repository**: [mates182/js_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/js_practicetask)
 
 ## Getting Started
